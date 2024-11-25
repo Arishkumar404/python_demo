@@ -1,4 +1,4 @@
-a = [25,10,5,20,35,30]
+a = [25,10,5,20,35,30,34]
 
 for i in range(len(a)):
     for j in range(len(a)):
