@@ -5,4 +5,4 @@ for i in range(n):
         print("YES")
         print("no")
     else:
-        print('NO')
+        print('yes')
